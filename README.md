@@ -1,4 +1,3 @@
-# Neural-Machine-Translation
 # Neural Machine Translation: English to Spanish
 
 A sequence-to-sequence neural machine translation system that translates English sentences to Spanish using LSTM-based encoder-decoder architecture with TensorFlow/Keras.
