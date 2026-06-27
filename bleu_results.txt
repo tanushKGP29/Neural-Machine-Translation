@@ -1,0 +1,46 @@
+BLEU-1: 63.71
+BLEU-2: 53.61
+BLEU-3: 45.92
+BLEU-4: 38.52
+
+Sample Translations:
+SRC: nothing can stop me
+REF: nada puede detenerme
+HYP: nada puede pararme
+
+SRC: tom is a bit of a <UNK>
+REF: tom es algo quisquilloso
+HYP: tom es un poco de
+
+SRC: do you want me to stay
+REF: querés que me quede
+HYP: quieres que me quede
+
+SRC: the doctor gave tom a sedative
+REF: el médico le dio un sedante a tom
+HYP: el médico le dio a tom
+
+SRC: i saw tom with mary
+REF: vi a tom con mary
+HYP: vi a tom con mary
+
+SRC: it s second hand
+REF: es de segunda mano
+HYP: es una mano
+
+SRC: you d better not see her now
+REF: por ahora será mejor que no la veas
+HYP: mejor no verlo ahora
+
+SRC: my office is on the fifth floor
+REF: mi oficina está en la planta
+HYP: mi oficina está en el quinto piso
+
+SRC: their house is very modern
+REF: su casa es muy moderna
+HYP: su casa es muy moderna
+
+SRC: it s an embarrassing question
+REF: es una pregunta incómoda
+HYP: es una pregunta decepcionado
+

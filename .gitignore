@@ -1,0 +1,24 @@
+# Model files (large binaries)
+my_models/*.h5
+my_models/*.keras
+
+# Data file (18MB)
+spa.txt
+
+# Training logs
+train_log*.txt
+eval_output.txt
+error.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
